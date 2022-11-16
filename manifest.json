@@ -1,0 +1,34 @@
+{
+    
+    "theme_color" : "#357af6",
+    "background_color" : "#3537f6",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "Evaluacion1",
+    "short_name" : "EvaJ",
+    "description" : "Una evaluacion de PWA",
+    "icons":[
+       {        
+        "src":"./img/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+
+        "src":"./img/icon-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256",
+
+        "src":"./img/icon-384x384.png",
+        "type": "image/png",
+        "sizes": "384x384",
+
+        "src":"./img/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+
+        
+       }
+
+    ]
+
+}
